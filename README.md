@@ -14,13 +14,23 @@ The **Bank Management System** is a simple console-based C++ application that al
 - ✅ Randomly generated unique account numbers  
 
 ## Technologies Used  
-- **C++** (Standard Library: `<vector>`, `<algorithm>`, `<cstdlib>`, `<ctime>`)  
+- **C++** (Standard Library:
+- `<vector>`, `<algorithm>`, `<cstdlib>`, `<ctime>`)  
 - Object-Oriented Programming (OOP) principles  
 
-## How to Run  
-1. **Clone the repository:**  
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
-   ```
-   
+## Usage
+When you run the program, you will see a menu like this:
+```sql
+-----------------------------------------------
+        BANK MANAGEMENT SYSTEM
+-----------------------------------------------
+1 - Create Account
+2 - Change PIN
+3 - Deposit into Account
+4 - Withdraw from Account
+5 - Check Balance
+6 - Close Account
+7 - Exit
+-----------------------------------------------
+Enter your choice: 
+```
