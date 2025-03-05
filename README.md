@@ -34,3 +34,7 @@ When you run the program, you will see a menu like this:
 -----------------------------------------------
 Enter your choice: 
 ```
+Follow the prompts to perform actions like creating an account, making deposits, withdrawals, etc.
+
+# Example
+Creating an account:
