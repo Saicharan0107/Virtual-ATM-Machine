@@ -38,3 +38,19 @@ Follow the prompts to perform actions like creating an account, making deposits,
 
 # Example
 Creating an account:
+```yaml
+ENTER YOUR DETAILS HERE:
+Name of Account Holder: JohnDoe
+Do you want to have a joint holder account? Type YES/NO: NO
+Enter the pin: 1234
+Enter the type of account:
+1 - Savings Account
+2 - Current Account
+Enter your choice here: 1
+Enter the balance you want to have initially in your account: 5000
+
+ACCOUNT CREATED SUCCESSFULLY
+Account Number: 1000005678
+Account Holder Name: JohnDoe
+Balance in your account: 5000
+Type of Account: Savings```
